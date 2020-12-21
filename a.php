@@ -1,5 +1,11 @@
 <?php
 
-echo 5 - 3;
+$x = test();
+
+function() {
+	return "fd0";
+}
+
+
 
 ?>
