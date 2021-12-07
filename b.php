@@ -2,4 +2,6 @@
 
 echo "b";
 
+echo "another line"
+
 ?>
